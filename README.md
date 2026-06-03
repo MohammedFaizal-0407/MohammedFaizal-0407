@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a **result-driven Data Analyst** with **4 years of professional experience**, including **3 years in Data Analysis** and **1 year in Data Quality Assurance, Database and ETL testing**. Currently working at **HCL Technologies Ltd, Bengaluru** as a Data Analyst, supporting a leading Inter Broker Dealer Company based in London.
 
