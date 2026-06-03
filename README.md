@@ -69,7 +69,7 @@ I'm a **result-driven Data Analyst** with **4 years of professional experience**
 
 | Degree | Institution | Year |
 |--------|------------|------|
-| 🎓 B.E. in Electronics & Communication Engineering | K S INSTITUTE OF TECHNOLOGY BANGAGOLR | 2017 – 2021 |
+| 🎓 B.E. in Electronics & Communication Engineering | K S Institute Of Technology Bangalore | 2017 – 2021 |
 
 ---
 
