@@ -24,7 +24,7 @@ I'm a **result-driven Data Analyst** with **4 years of professional experience**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages & Query
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -49,31 +49,31 @@ I'm a **result-driven Data Analyst** with **4 years of professional experience**
 
 ---
 
-## 💼 Work Experience
+##  Work Experience
 
-### 🏢 Data Analyst — HCL Technologies Ltd, Bengaluru *(May 2022 – Present)*
+###  Data Analyst — HCL Technologies Ltd, Bengaluru *(May 2022 – Present)*
 *Client: TPICAP – Inter Broker Dealer Company, London*
 
-- ⚡ **End-to-End Power BI Solution:** Built a trading analytics platform integrating Trade Management Systems, Deal Management Systems and internal web apps using SQL, Power Query and ETL workflows
-- 📐 **Star Schema Data Model:** Designed scalable fact and dimension tables to support high-volume financial trading data
-- 📈 **DAX Measures & KPIs:** Developed complex measures including Daily P&L, Cumulative P&L, Exposure, Win Complex, MoM/YoY KPIs and Limit Utilization for real-time trading performance analysis
-- 🎛️ **Interactive Dashboards:** Created Power BI dashboards with drill-throughs, slicers, conditional formatting, KPIs, treemaps, heatmaps and trend visuals for traders, risk and compliance teams
-- 🔄 **Reporting Automation:** Automated daily reporting via Power BI service scheduled refresh, improving data availability and consistency
-- ⚙️ **Query & Performance Optimization:** Improved model performance using SQL views, Query Folding, DAX optimization and Power BI performance tuning techniques
-- 📉 **Operational Efficiency:** Reduced manual Excel reporting by **40%**, enabling faster and more accurate decision-making
-- ✅ **Data Validation & Governance:** Conducted backend data validation using SQL Queries to ensure Data Accuracy across upstream and downstream systems
+-  **End-to-End Power BI Solution:** Built a trading analytics platform integrating Trade Management Systems, Deal Management Systems and internal web apps using SQL, Power Query and ETL workflows
+-  **Star Schema Data Model:** Designed scalable fact and dimension tables to support high-volume financial trading data
+-  **DAX Measures & KPIs:** Developed complex measures including Daily P&L, Cumulative P&L, Exposure, Win Complex, MoM/YoY KPIs and Limit Utilization for real-time trading performance analysis
+-  **Interactive Dashboards:** Created Power BI dashboards with drill-throughs, slicers, conditional formatting, KPIs, treemaps, heatmaps and trend visuals for traders, risk and compliance teams
+-  **Reporting Automation:** Automated daily reporting via Power BI service scheduled refresh, improving data availability and consistency
+-  **Query & Performance Optimization:** Improved model performance using SQL views, Query Folding, DAX optimization and Power BI performance tuning techniques
+-  **Operational Efficiency:** Reduced manual Excel reporting by **40%**, enabling faster and more accurate decision-making
+-  **Data Validation & Governance:** Conducted backend data validation using SQL Queries to ensure Data Accuracy across upstream and downstream systems
 
 ---
 
-## 🎓 Education
+##  Education
 
 | Degree | Institution | Year |
 |--------|------------|------|
-| 🎓 B.E. in Electronics & Communication Engineering | K S Institute Of Technology Bangalore | 2017 – 2021 |
+|  B.E. in Electronics & Communication Engineering | K S Institute Of Technology Bangalore | 2017 – 2021 |
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohammedFaizal-0407&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
@@ -87,7 +87,7 @@ I'm a **result-driven Data Analyst** with **4 years of professional experience**
 
 ---
 
-## 🌟 My Interests
+##  My Interests
 
 - 📊 **Business Intelligence:** Building end-to-end BI solutions that drive strategic decisions
 - 🔍 **Data Quality & Governance:** Ensuring data accuracy and reliability across complex systems
