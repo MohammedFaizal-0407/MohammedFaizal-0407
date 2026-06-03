@@ -69,7 +69,7 @@ I'm a **result-driven Data Analyst** with **4 years of professional experience**
 
 | Degree | Institution | Year |
 |--------|------------|------|
-| 🎓 B.E. in Electronics & Communication Engineering | Anna University | 2018 – 2022 |
+| 🎓 B.E. in Electronics & Communication Engineering | Anna University | 2017 – 2021 |
 
 ---
 
